@@ -1,0 +1,1 @@
+SAP, or Systems Applications and Products in Data Processing, is one of the world's leading providers of enterprise software. It offers solutions for managing business operations, customer relations, finance, supply chain, and more. SAP’s flagship platform, S/4HANA, uses in-memory computing to deliver fast analytics and real-time decision-making.
