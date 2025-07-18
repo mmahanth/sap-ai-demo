@@ -1,0 +1,7 @@
+aiWorkflow:
+  name: "text-summarization"
+  tasks:
+    - task: "summarizeText"
+      model: "gpt"
+      input: "rawText.txt"
+      output: "summary.txt"
